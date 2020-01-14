@@ -3,8 +3,10 @@ title: "R Notebook"
 output: html_notebook
 ---
 
+We've typed some new text which should now be part of a new commit
 
 ```{r}
 plot(cars)
 ```
 
+Here is code I care about.
